@@ -10,7 +10,7 @@
 
   <groupId>com.shopzilla.opensource.hadoop</groupId>
   <artifactId>hadoop-integration-test-suite</artifactId>
-  <version>1.2</version>
+  <version>1.3-SNAPSHOT</version>
 
   <name>Shopzilla Open Source - Hadoop Integration test Suite</name>
   <description>Shopzilla Open Source - Hadoop Integration test Suite</description>
